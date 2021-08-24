@@ -1,7 +1,7 @@
 {
   "variables": {
-    "aws_access_key": "AKIAUOSTY2F6ML4E3M5X",
-    "aws_secret_key": "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",
+    "aws_access_key": "xxxxx",
+    "aws_secret_key": "xxxxx",
     "aws_region": "us-east-1",
     "usuario":"cajecasu-app-fdevias"
   },
